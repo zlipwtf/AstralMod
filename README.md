@@ -15,7 +15,7 @@ For a full list of commands, use `am:help` in a channel. Use `am:help [command]`
 ```js
 module.exports = {
     keys: {
-        token: "", // This is where the token for your bot account goes
+        token: "NzU1MTEyNDExMDA2MjM4OTM0.X1-jPA.AjQ5Xhlz5dAKEWdbI57vMR6zQ8I", // This is where the token for your bot account goes
         settingsKey: "", // This is the encryption key for the settings file. What you input here really doesn't matter - it should be about 32 characters (if you go any longer it will be truncated). Don't change it or else you won't be able to use your settings file again. 
         yandexKey: "" // This is the token used for the Yandex.Translate API. You can leave this blank, but 'am:tr' will be disabled. If you want to use 'am:tr' though, you can get a token at https://tech.yandex.com/translate/ and insert it here.
     },
